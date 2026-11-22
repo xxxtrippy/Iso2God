@@ -1,4 +1,4 @@
-# Iso2God
+# Iso2God - Usb2 (DVD-HDD) patch
 Decompiled Iso2God for quality of life improvements
 
 This mod adds:
